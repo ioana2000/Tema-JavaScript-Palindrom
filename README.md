@@ -1,1 +1,1 @@
-# Tema-JavaScript-Palindrom
+ITSCHOOL EXERCITII 
